@@ -9,4 +9,4 @@
 
 
 <h2>Example Usage: </h2>
-![Powershell example](example.png)
+<img src="example.png">
