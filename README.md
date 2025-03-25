@@ -2,6 +2,7 @@
 
 ## To use:
 
-1- Download Password-Generator-Installer.exe and gen.exe
-2- Install
-3- That's it.
+<ol>
+  <li>Go to releases and download Password-Generator.zip</li>
+  <li>Run "Password Generator Installer.exe"</li>
+</ol>
